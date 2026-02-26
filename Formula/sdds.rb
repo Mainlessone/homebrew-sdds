@@ -1,8 +1,8 @@
 class Sdds < Formula
   desc "Spec-Driven Development System (SDDS) CLI"
-  homepage "https://github.com/Mainlessone/sddds"
-  url "https://github.com/Mainlessone/sddds/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  homepage "https://github.com/Mainlessone/sdds"
+  url "https://github.com/Mainlessone/sdds/archive/refs/tags/v1.0.0.tar.gz"
+  sha256 "1c28b248ebde928db6faed6b6f79d9e2b17a6a43b2f5b614abc24a1bba39f15c"
   version "1.0.0"
 
   depends_on "glow"
